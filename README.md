@@ -1,3 +1,4 @@
+#magenta-vaccine
 ## What is about?
 
 The vaccine program belongs to the MAGENTA project.
